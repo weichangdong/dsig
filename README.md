@@ -104,3 +104,6 @@ fmt.Println(err)
 
 But you'll find that if you tamper with the cert or the data being signed (in a
 way that meaningfully alters the XML data), you'll get an error.
+
+
+### edit by wcd
